@@ -1,0 +1,128 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-brand img {
+    width: 100px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+}
+.container-fluid{
+    margin: 0px;
+    padding: 0px;
+}
+.icon {
+    margin-left: 20px;
+    margin-right: 10px;
+    text-align: center;
+}
+.icon h6{
+    font-size: 14px;
+    font-weight: bold;
+}
+.nav-item input{
+    width: 450px;
+}
+.nav-item a{
+    font-size: 14px;
+    font-weight: bold;
+}
+/* Footer.css */
+.footer {
+    position:sticky;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40; /* Dark background color */
+    color: #fff; /* White text color */
+  }
+  
+  .footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    color: #d4d4d4; /* Lighter shade on hover */
+  }
+  
+  .footer h5 {
+    margin-bottom: 1rem;
+  }
+  
+  .poster img{
+    display: block;
+    width: 100%;
+  }
+  .supersale img{
+    display: block;
+    width: 50%;
+  }
+  .coupons img{
+    display: block;
+    width: 100%;
+  }
+  .uaseCode{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .uaseCode img{
+    display: block;
+    width: 50%;
+  }
+  .omg img{
+    display: block;
+    width: 100%;
+  }
+  .carousel-item img{
+    display: block;
+    width: 54%;
+  }
+  .cardas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .cardas img{
+    display: block;
+    width: 200px;
+    height: 350px;
+  }
+  .categry img{
+    display: block;
+    width: 100%;
+  }
+  .shopCard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+
+  }
+  .shopCard img{
+    display: block;
+    width: 300px;
+    height: 350px;
+  }
+  .downloads img{
+    display: block;
+    width: 100%;
+  }
+  .men{
+    padding:0px 20px;
+  }
+  .breadcrumbs-list p{
+    font-size: 14px;
+  }
+  .breadcrumbs-list p span{
+    font-weight: bold;
+  }
+  .title p{
+    font-size: 14px;
+    color: rgb(188, 188, 185);
+  }
+  .title p span{
+    font-weight: bold;
+    color: black;
+  }
