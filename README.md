@@ -1,5 +1,5 @@
 # React + Vite
-# Home Page of Myntra shopping.
+# Home Page of Myntra shopping Website .
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
